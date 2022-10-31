@@ -14,6 +14,7 @@
 - seaborn
 - phik
 - sklearn:
+  - train_test_split
   - GridSearchCV,
   - cross_val_score
   - Pipeline
