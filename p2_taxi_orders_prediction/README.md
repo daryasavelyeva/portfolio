@@ -8,7 +8,7 @@
 
 - pandas 
 - matplotlib
-- statsmodels.tsa.seasonal 
+- statsmodels
   - seasonal_decompose
 - sklearn:
   - train_test_split
